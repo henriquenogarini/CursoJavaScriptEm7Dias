@@ -1,0 +1,1 @@
+Esta pasta está destinada a todo o conteúdo e aprendizado realizado durante o "Dia 2" do curso.
