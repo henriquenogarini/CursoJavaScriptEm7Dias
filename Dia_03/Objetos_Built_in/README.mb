@@ -1,0 +1,111 @@
+Built-In Objetcts : São sequencias de códigos, com objetos já criados dentro
+do próprio JavaScript, fazendo com que você não precise criar um objeto para 
+resolver um problema.
+
+Um ótimo website para verificar esses Built-In Objects é :
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects
+Temos diversos tipos de Built In Proprierties, como por exemplo :
+
+Propriedades de valor :
+
+Infinity,
+NaN,
+undefined,
+null
+
+Propriedades de função:
+
+eval(),
+uneval() "Non-standard",
+isFinite(),
+isNaN(),
+parseFloat(),
+parseInt(),
+decodeURI(),
+decodeURIComponent(),
+encodeURI(),
+encodeURIComponent(),
+escape() "Deprecated",
+unescape() "Deprecated"
+
+Objetos fundamentais :
+
+Object,
+Function,
+Boolean,
+Symbol "Experimental",
+Error,
+EvalError,
+InternalError,
+RangeError,
+ReferenceError,
+StopIteration,
+SyntaxError,
+TypeError,
+URIError
+
+Números e datas :
+
+Number,
+Math,
+Date
+
+Processamento de texto :
+
+String,
+RegExp
+
+Coleções Indexadas :
+
+Array,
+Float32Array,
+Float64Array,
+Int16Array,
+Int32Array,
+Int8Array,
+Uint16Array,
+Uint32Array,
+Uint8Array,
+Uint8ClampedArray,
+ParallelArray "Non-standard"
+
+Coleçoes Chaveadas:
+
+Map,
+Set,
+WeakMap,
+WeakSet
+
+Dados Estruturados :
+
+ArrayBuffer,
+DataView,
+JSON
+
+Controle de abstrações de objetos:
+
+Promise,
+Generator,
+GeneratorFunction
+
+Reflexão :
+
+Reflect,
+Proxy
+
+Internacionalização : 
+
+Intl,
+Intl.Collator,
+Intl.DateTimeFormat,
+Intl.NumberFormat
+
+Objetos não padrão : 
+
+Iterator,
+ParallelArray "Non-standard",
+StopIteration "Non-standard"
+
+Outros :
+
+arguments

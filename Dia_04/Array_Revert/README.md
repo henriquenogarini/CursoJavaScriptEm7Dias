@@ -1,0 +1,1 @@
+Neste módulo aprendemos aformatar a array para uma ordem alfabética e também reverter itens de uma array.

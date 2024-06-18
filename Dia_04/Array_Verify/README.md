@@ -1,0 +1,1 @@
+Neste módulo aprendemos a verificar elementos dentro de um Array, utilizando o método "every", onde se coloca a variável.every e após a função.

@@ -1,0 +1,1 @@
+Neste módulo aprendemos a realizar o método .filter no JS, fazendo com que possamos filtrar os dados dentro de uma array, para satifazer a nossa função.

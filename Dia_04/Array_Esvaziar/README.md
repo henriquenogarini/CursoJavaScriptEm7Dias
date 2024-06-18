@@ -1,0 +1,1 @@
+Neste módulo aprendemos a esvaziar uma array, utilizando alguns métodos.

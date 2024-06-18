@@ -1,0 +1,2 @@
+IUma expressão "arrow function" possui uma sintaxe mais curta se comparada a uma expressão de função e não tem seu próprio this.
+São basicamente uma nova forma de criar funções com JavaScript. A (=>) indica que está se referenciando a uma função e também já tem a função (return) funcional, sem precisa adicionar código extra para isto.

@@ -1,0 +1,2 @@
+Neste módulo estudamos a fundo as arrays, seu funcionamento e como adicionar itens no início, meio e fim.
+Além disso aprendemos a encontrar itens dentro de uma array utilizando o "num.indexOf" e "num.includes".

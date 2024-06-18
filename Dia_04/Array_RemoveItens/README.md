@@ -1,0 +1,1 @@
+Neste módulo aprendemos a remover itens de uma array, utilizando os métodos "pop"(remove o último item de uma array), "shift"(para remover o primeiro elemento) e splice(para remover os elementos a partir do que foi escolhido, podendo também ser usado como intervalo de remoção).

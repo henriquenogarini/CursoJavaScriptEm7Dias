@@ -1,0 +1,1 @@
+Factory : É uma "fábrica de objetos". É uma técnica que permite criar objetos de forma eficiente e flexível, tornando o código mais organizado e fácil de manter.
